@@ -30,6 +30,7 @@
     "md2html": "./bin/md2html.js"
   },
   "files": [
+    "src",
     "bin",
     "lib",
     "Changes.md",
